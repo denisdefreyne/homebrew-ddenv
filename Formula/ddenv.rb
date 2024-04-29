@@ -1,8 +1,8 @@
 class Ddenv < Formula
   desc "Does nothing useful"
   homepage "https://rubygems.org/gems/ddenv"
-  url "https://rubygems.org/downloads/ddenv-0.1.1.gem"
-  sha256 "969a9ae02e9881459276e1a6b199cb623c2b0e106f99a7fec49facc2c946c607"
+  url "https://rubygems.org/downloads/ddenv-0.1.2.gem"
+  sha256 "db14d131f23c93f217e73cbfd60555ec9fdf06565f6b3488b8def76a870f69ec"
   license "MIT"
 
   depends_on "ruby"
