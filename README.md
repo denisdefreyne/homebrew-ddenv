@@ -1,11 +1,12 @@
-# Denisdefreyne Ddenv
+# ddenv Homebrew tap
 
-## How do I install these formulae?
+This is the Homebrew tap for [ddenv](https://github.com/denisdefreyne/ddenv).
 
-`brew install denisdefreyne/ddenv/<formula>`
+To install `ddenv`, either:
 
-Or `brew tap denisdefreyne/ddenv` and then `brew install <formula>`.
+1. Run `brew install denisdefreyne/ddenv/ddenv`
 
-## Documentation
+Or:
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+1. Run `brew tap denisdefreyne/ddenv`
+2. Run `brew install <formula>`
